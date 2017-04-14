@@ -1,4 +1,3 @@
-document.addEventListener('DOMContentLoaded', function () {
-    var heading = document.querySelector('h1');
-    heading.textContent = 'Hello world!';
+$(document).ready(function () {
+    $("h1").text("Hello after DOM manipulation");
 }, false);
