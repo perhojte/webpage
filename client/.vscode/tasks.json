@@ -1,9 +1,11 @@
 {
-    "version": "0.1.0",
-    "linux": {
-        "command": "xdg-open"
-    },
-    "isShellCommand": true,
-    "showOutput": "never",
-    "args": ["${file}"]
+  "version": "0.1.0",
+  "linux": {
+    "command": "xdg-open"
+  },
+  "isShellCommand": true,
+  "showOutput": "never",
+  "args": [
+    "${file}"
+  ]
 }
