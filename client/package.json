@@ -4,5 +4,8 @@
   "description": "My personal webpage using TypeScript and React",
   "main": "index.js",
   "author": "Per Bille Højte",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^2.4.1"
+  }
 }
